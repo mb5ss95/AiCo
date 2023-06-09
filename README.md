@@ -21,5 +21,6 @@
 - 음성 인식
 
 ## 결 과(Output)
-https://github.com/mb5ss95/Aico/assets/60500325/70d11b71-383c-4fa5-aff5-6082fe7d3625
+[https://github.com/mb5ss95/Aico/assets/60500325/70d11b71-383c-4fa5-aff5-6082fe7d3625](https://github.com/mb5ss95/Aico/assets/60500325/7c4f562a-825b-4a57-a525-b5be3dd5da01
+)
 https://github.com/mb5ss95/Aico/assets/60500325/21026f36-91ea-45f2-9e7d-d9544b713664
